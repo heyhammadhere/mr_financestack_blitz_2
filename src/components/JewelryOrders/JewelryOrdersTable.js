@@ -64,7 +64,6 @@ const JewelryOrdersTable = () => {
     onGlobalFilterChange: setGlobalFilter,
   });
 
-  console.log(data)
   return (
     <Row>  
     <div>
