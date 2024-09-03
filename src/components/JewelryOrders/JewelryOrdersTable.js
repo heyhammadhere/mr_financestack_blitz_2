@@ -59,6 +59,7 @@ const JewelryOrdersTable = () => {
           )
         ),
     },
+    autoResetPageIndex: false,
     onSortingChange: setSorting,
     onColumnFiltersChange: setColumnFilters,
     onGlobalFilterChange: setGlobalFilter,
